@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityApiApp", "CityApiApp\CityApiApp.csproj", "{C19FB4C4-BDC4-4893-9779-27A0A8D92324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityAPI.Tests", "CityAPI.Tests\CityAPI.Tests.csproj", "{8C162A60-6653-DC11-A79B-052BEB5B3674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19FB4C4-BDC4-4893-9779-27A0A8D92324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19FB4C4-BDC4-4893-9779-27A0A8D92324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19FB4C4-BDC4-4893-9779-27A0A8D92324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19FB4C4-BDC4-4893-9779-27A0A8D92324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C162A60-6653-DC11-A79B-052BEB5B3674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C162A60-6653-DC11-A79B-052BEB5B3674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C162A60-6653-DC11-A79B-052BEB5B3674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C162A60-6653-DC11-A79B-052BEB5B3674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2060D0-C4F6-46D9-AD0E-C3AE247CBEE2}
+	EndGlobalSection
+EndGlobal
